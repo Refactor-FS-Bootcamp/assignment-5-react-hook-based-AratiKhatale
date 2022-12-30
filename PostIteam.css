@@ -1,0 +1,21 @@
+body{
+    display: inline-flex;
+}
+form{
+    background-color: yellow;
+    border: 2px solid black;
+    margin: 20px;
+    
+}
+
+.title{
+    justify-content: center;
+    background-color: rgb(59, 247, 59);
+    
+}
+.img{
+    display: inline;
+    padding: 20px;
+    height: 200p
+    
+}
